@@ -11,8 +11,10 @@
 	</dict>
 	<key>UILaunchScreen</key>
 	<dict>
+		<key>UIColorName</key>
+		<string>wpink</string>
 		<key>UIImageName</key>
-		<string>icon</string>
+		<string>image2</string>
 		<key>UILaunchScreen</key>
 		<dict/>
 	</dict>

@@ -32,13 +32,11 @@ struct LoginView: View {
                 .bold()
                 .underline()
                 .frame(height: 50)
-            Image("icon 1")
+            Image("image")
                 .resizable()
                 .scaledToFit()
+                .clipShape(RoundedRectangle(cornerRadius: 30))
                 .padding()
-                //.frame(height: 500)
-                //.rounded
-            //Spacer()
             Group {
                 TextField("E-mail", text: $email)
                     .keyboardType(.emailAddress)
