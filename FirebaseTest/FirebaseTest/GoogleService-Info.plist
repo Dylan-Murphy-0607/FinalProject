@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>834167647760-4g1arbospntkis1i12dg5e6kni5j3alk.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.834167647760-4g1arbospntkis1i12dg5e6kni5j3alk</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDv8rJfvmOMPJ_RipkeCfcj_LeXfsk-QP4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>834167647760</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.murphy.FirebaseTest</string>
+	<key>PROJECT_ID</key>
+	<string>weekendfinal-28338</string>
+	<key>STORAGE_BUCKET</key>
+	<string>weekendfinal-28338.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:834167647760:ios:8423c994ce4e24aba0a495</string>
+</dict>
+</plist>
