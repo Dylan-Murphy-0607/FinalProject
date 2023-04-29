@@ -79,16 +79,19 @@ struct DetailView: View {
                 
                 if (event.entities == nil) {
                     address = "N/A"
+                } else if event.entities!.isEmpty {
+                    address = "N/A"
                 } else {
                     address = event.entities![0].formatted_address!
+                }
+            
+                   
                 }
                 
                 
             }
         }
         
-        
-    }
 
 struct DetailView_Previews: PreviewProvider {
     static var previews: some View {
